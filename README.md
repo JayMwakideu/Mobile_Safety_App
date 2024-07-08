@@ -1,6 +1,6 @@
 # Mobile Safety App
 
-###  🔽[Download][download] Android APK (TESTING)
+###  🔽Download Android APK (TESTING)
 
 <br>
 
