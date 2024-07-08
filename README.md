@@ -33,6 +33,17 @@ And related features for ensuring safety :)
 - Adobe XD (UI/UX Designing)
 - Flutter (Mobile App Development)
 
+## Support Me
+If you like my work, consider buying me a coffee:
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mwakideu)
+
+## License
+
+| Component | Licensing |
+|-----------|-----------|
+| | GNU General Public License v2.0 |
+
 ## 👀 More Look & Feel
 
 Here's what we have developed!
