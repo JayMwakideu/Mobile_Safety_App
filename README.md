@@ -1,8 +1,4 @@
 # Mobile Safety App
-A Mobile Safety App With Various Features On Which Women Of Our Society Can Count On.
-<h1 align="center" style="font-size: 52px;"><img height=30 src="https://user-images.githubusercontent.com/43790152/136710076-c634d2bf-fdfa-439c-9696-c87a7d6b0f2d.jpg"> Amaan - You Deserve to be Safe!</h1>
-
-This is Hackfair 2.0 Submission where a team from Google DSC COMSATS University Islamabad developed a mobile safety app and contributed to community safety and empowerment.
 
 ###  🔽[Download][download] Android APK (TESTING)
 
