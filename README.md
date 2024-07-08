@@ -6,17 +6,17 @@
 
 <img src="https://user-images.githubusercontent.com/43790152/136709012-5e27b2f9-06d6-40fc-8ed0-26d67818e204.png">
 
-## ⚠️ Problem Statement
+## Problem Statement
 Unfortunately, over time, violence and safety issues have intensified, creating obstacles for individuals to prosper and grow equitably. A significant portion of the population faces these challenges, impacting their ability to participate in daily activities safely.
 
-## 😃 Inspiration & Motivation
+## Inspiration & Motivation
 The inspiration behind our work is the belief that everyone deserves to feel safe and secure. As students and members of the community, we wanted to contribute to a cause that empowers individuals and provides them with the tools to ensure their safety.
 
 For this, we developed a mobile application named **“Amaan” - You Deserve to be Safe!**
 
 It is a mobile application developed for the general population. It allows users to feel assured that they can count on someone and make sure that “SOMEONE” will be their trusted contacts to whom they can send alerts, locations, and much more.
 
-## 📱 Features
+## Features
 Following are the features available in Amaan:
 - **Get Home Safe**: Track user's location after a specific time (Set by the user)
 - **Safe Shake**: Shake the mobile device to send SOS alerts even if the app is closed!
@@ -24,11 +24,11 @@ Following are the features available in Amaan:
 
 And related features for ensuring safety :)
 
-## 🤔 Features in Future
+## Features in Future
 - **Safe Audio**: Enable user's device audio for recording, which could be used as evidence by respective authorities (e.g., Police)
 - **Overcome SMS Charges**: We aim to collaborate with the government to overcome the charges required to send SOS SMS in the future.
 
-## ⚒️ Tools & Technology
+## Tools & Technology
 
 - Adobe XD (UI/UX Designing)
 - Flutter (Mobile App Development)
@@ -44,7 +44,7 @@ If you like my work, consider buying me a coffee:
 |-----------|-----------|
 | | GNU General Public License v2.0 |
 
-## 👀 More Look & Feel
+## More Look & Feel
 
 Here's what we have developed!
 
