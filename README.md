@@ -61,4 +61,4 @@ Here's what we have developed!
 
 ###  🔽Download Android APK (TESTING)
 
-![download](https://drive.google.com/file/d/1tEdz0d6l70O9uDjRZzpHKsav-PiPmlan/view?usp=sharing)
+[download](https://drive.google.com/file/d/1tEdz0d6l70O9uDjRZzpHKsav-PiPmlan/view?usp=sharing)
