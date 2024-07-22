@@ -1,6 +1,6 @@
 # Mobile Safety App
 
-###  🔽Download Android APK (TESTING)
+
 
 <br>
 
@@ -19,7 +19,7 @@ Unfortunately, over time, violence and safety issues have intensified, creating 
 ## Inspiration & Motivation
 The inspiration behind our work is the belief that everyone deserves to feel safe and secure. As students and members of the community, we wanted to contribute to a cause that empowers individuals and provides them with the tools to ensure their safety.
 
-For this, we developed a mobile application named **“Amaan” - You Deserve to be Safe!**
+For this, we developed a mobile application named **“Usalama” - You Deserve to be Safe!**
 
 It is a mobile application developed for the general population. It allows users to feel assured that they can count on someone and make sure that “SOMEONE” will be their trusted contacts to whom they can send alerts, locations, and much more.
 
@@ -59,6 +59,6 @@ And related features for ensuring safety :)
 Here's what we have developed!
 ![Look!](screenshots/screenshot2.png)
 
+###  🔽Download Android APK (TESTING)
 
-
-[download]: https://drive.google.com/file/d/1tEdz0d6l70O9uDjRZzpHKsav-PiPmlan/view?usp=sharing
+![download](https://drive.google.com/file/d/1tEdz0d6l70O9uDjRZzpHKsav-PiPmlan/view?usp=sharing)
