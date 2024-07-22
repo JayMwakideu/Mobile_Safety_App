@@ -4,7 +4,15 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/43790152/136709012-5e27b2f9-06d6-40fc-8ed0-26d67818e204.png">
+## Support Me
+If you like my work, consider buying me a coffee:
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mwakideu)
+
+<!-- ABOUT THE PROJECT -->
+## Dashboard
+![Dashboard](screenshots/screenshots1.png)
+
 
 ## Problem Statement
 Unfortunately, over time, violence and safety issues have intensified, creating obstacles for individuals to prosper and grow equitably. A significant portion of the population faces these challenges, impacting their ability to participate in daily activities safely.
