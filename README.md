@@ -33,6 +33,8 @@ Following are the features available in Amaan:
 ## Support Me
 If you like my work, consider buying me a coffee:
 
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mwakideu)
+
 And related features for ensuring safety :)
 
 ## Features in Future
@@ -44,10 +46,7 @@ And related features for ensuring safety :)
 - Adobe XD (UI/UX Designing)
 - Flutter (Mobile App Development)
 
-## Support Me
-If you like my work, consider buying me a coffee:
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mwakideu)
 
 ## License
 
@@ -58,11 +57,8 @@ If you like my work, consider buying me a coffee:
 ## More Look & Feel
 
 Here's what we have developed!
+![Look!](screenshots/screenshot2.png)
 
-<img src="https://user-images.githubusercontent.com/43790152/136709005-0d2444b1-0214-43f1-9a4f-7fc4400164fa.png">
 
-<img src="https://user-images.githubusercontent.com/43790152/136709006-f2c5bd98-5c16-4f03-aae2-9449a7a3ddd1.png">
-
-<img src="https://user-images.githubusercontent.com/43790152/136709008-974e5fde-ca20-492c-ae13-131b4c318c1f.png">
 
 [download]: https://drive.google.com/file/d/1tEdz0d6l70O9uDjRZzpHKsav-PiPmlan/view?usp=sharing
