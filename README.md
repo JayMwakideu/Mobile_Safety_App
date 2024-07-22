@@ -4,14 +4,13 @@
 
 <br>
 
-## Support Me
-If you like my work, consider buying me a coffee:
 
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mwakideu)
 
 <!-- ABOUT THE PROJECT -->
 ## Dashboard
-![Dashboard](screenshots/screenshots1.png)
+
+![Dashboard](screenshots/screenshot1.png)
 
 
 ## Problem Statement
@@ -29,6 +28,10 @@ Following are the features available in Amaan:
 - **Get Home Safe**: Track user's location after a specific time (Set by the user)
 - **Safe Shake**: Shake the mobile device to send SOS alerts even if the app is closed!
 - **Helplines**: Contact nearest police stations, hospitals, fire brigade, pharmacies, etc.
+
+
+## Support Me
+If you like my work, consider buying me a coffee:
 
 And related features for ensuring safety :)
 
